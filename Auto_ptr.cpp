@@ -6,7 +6,7 @@ class biodata {
     public:
     biodata(string str1,int n1):s(str1),age(n1){}
     void display() {
-        cout<<"string:"<<s<<" "<<"num :"<<age<<endl;
+        //cout<<"string:"<<s<<" "<<"num :"<<age<<endl;
     }
     
 };
